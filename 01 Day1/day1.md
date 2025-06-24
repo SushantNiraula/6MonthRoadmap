@@ -1,0 +1,6 @@
+# Day 1 :
+1. `Setting up our foundational toolkit`: We installed PyTorch, NumPy, and Matplotlib within a dedicated environment, preparing our workspace for hands-on deep learning.
+2. `Demystifying Tensors`: We learned that tensors are the core data structures in deep learning, generalizing scalars (0D), vectors (1D), and matrices (2D) to arbitrary dimensions. We explored how they represent diverse data, from single sensor readings to complex multi-channel satellite images for landslide detection.
+3. `Practicing Basic Operations`: We gained practical experience by creating tensors, performing element-wise addition, and using slicing to extract specific data subsets. We also visualized a 2D tensor as a heatmap, building intuition for how data is structured and represented in these multi-dimensional arrays.
+4. `Initiating our Portfolio`: Crucially, we started our GitHub repository, marking the beginning of our public deep learning portfolio.
+5. `Various operations`: We learned operations like Broadcasting, Saving Memory, Conversion to Other Python Objects and Matrix multiplication, views, reshaping, Transposing, flatten.
